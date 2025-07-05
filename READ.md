@@ -39,3 +39,9 @@ It will streamline daily operations, centralize data, and make financial reporti
 | Final Day  | 🎉 Final polish, bug fixes, write-up, and presentation prep          |
 
 ---
+
+Todos In the future
+- Create dev project and production project on supabse
+- Github action 
+- Create dev branch and production branch
+- 
