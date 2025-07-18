@@ -41,7 +41,14 @@ It will streamline daily operations, centralize data, and make financial reporti
 ---
 
 Todos In the future
+Dev Ops
 - Create dev project and production project on supabse
 - Github action 
 - Create dev branch and production branch
-- 
+
+
+Functionality
+- User logic
+- Employee page
+- Show inventory item group by item
+- Use role to regulate user action
